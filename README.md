@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jerrim
-- 👀 I’m interested in Hacking
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in playing pc games
+- 🌱 I’m currently learning js
 - 💞️ I’m looking to collaborate on developer
 - 📫 How to reach me on discord jerrim#4630
 
